@@ -1,4 +1,4 @@
-![alt text](https://github.com/ajariwala1/au-hello-world/blob/main/Docs/banner_au.png?raw=true)
+![alt text](https://github.com/ajariwala1/au-hello-world/blob/main/docs/banner_au.png?raw=true)
 
 
 :stop_sign: `Incomplete` <br/>
