@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		AC24A8432DBD057500BF4356 /* au hello world.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "au hello world.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC24A8432DBD057500BF4356 /* mod 1 app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mod 1 app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		AC24A8552DBD057600BF4356 /* Exceptions for "au hello world" folder in "au hello world" target */ = {
+		AC24A8552DBD057600BF4356 /* Exceptions for "mod 1 app" folder in "mod 1 app" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = AC24A8422DBD057500BF4356 /* au hello world */;
+			target = AC24A8422DBD057500BF4356 /* mod 1 app */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		AC24A8452DBD057500BF4356 /* au hello world */ = {
+		AC24A8452DBD057500BF4356 /* mod 1 app */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				AC24A8552DBD057600BF4356 /* Exceptions for "au hello world" folder in "au hello world" target */,
+				AC24A8552DBD057600BF4356 /* Exceptions for "mod 1 app" folder in "mod 1 app" target */,
 			);
-			path = "au hello world";
+			path = "mod 1 app";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		AC24A83A2DBD057400BF4356 = {
 			isa = PBXGroup;
 			children = (
-				AC24A8452DBD057500BF4356 /* au hello world */,
+				AC24A8452DBD057500BF4356 /* mod 1 app */,
 				AC24A8442DBD057500BF4356 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		AC24A8442DBD057500BF4356 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AC24A8432DBD057500BF4356 /* au hello world.app */,
+				AC24A8432DBD057500BF4356 /* mod 1 app.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AC24A8422DBD057500BF4356 /* au hello world */ = {
+		AC24A8422DBD057500BF4356 /* mod 1 app */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AC24A8562DBD057600BF4356 /* Build configuration list for PBXNativeTarget "au hello world" */;
+			buildConfigurationList = AC24A8562DBD057600BF4356 /* Build configuration list for PBXNativeTarget "mod 1 app" */;
 			buildPhases = (
 				AC24A83F2DBD057500BF4356 /* Sources */,
 				AC24A8402DBD057500BF4356 /* Frameworks */,
@@ -74,13 +74,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				AC24A8452DBD057500BF4356 /* au hello world */,
+				AC24A8452DBD057500BF4356 /* mod 1 app */,
 			);
-			name = "au hello world";
+			name = "mod 1 app";
 			packageProductDependencies = (
 			);
 			productName = "au hello world";
-			productReference = AC24A8432DBD057500BF4356 /* au hello world.app */;
+			productReference = AC24A8432DBD057500BF4356 /* mod 1 app.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AC24A83E2DBD057400BF4356 /* Build configuration list for PBXProject "au hello world" */;
+			buildConfigurationList = AC24A83E2DBD057400BF4356 /* Build configuration list for PBXProject "mod 1 app" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AC24A8422DBD057500BF4356 /* au hello world */,
+				AC24A8422DBD057500BF4356 /* mod 1 app */,
 			);
 		};
 /* End PBXProject section */
@@ -314,7 +314,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AC24A83E2DBD057400BF4356 /* Build configuration list for PBXProject "au hello world" */ = {
+		AC24A83E2DBD057400BF4356 /* Build configuration list for PBXProject "mod 1 app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AC24A8592DBD057600BF4356 /* Debug */,
@@ -323,7 +323,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AC24A8562DBD057600BF4356 /* Build configuration list for PBXNativeTarget "au hello world" */ = {
+		AC24A8562DBD057600BF4356 /* Build configuration list for PBXNativeTarget "mod 1 app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AC24A8572DBD057600BF4356 /* Debug */,
